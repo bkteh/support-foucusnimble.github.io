@@ -36,7 +36,7 @@ We welcome feedback and ideas to improve FocusNimble GPT. If you have a feature 
 
 While we can't promise to implement every feature request, we'll certainly consider all constructive and feasible suggestions. Your input can make a big difference!
 
-Remember, the more detailed and clear your feature request is, the better we can understand and evaluate it. Thanks for helping to make [Your App's Name] even better!
+Remember, the more detailed and clear your feature request is, the better we can understand and evaluate it. Thanks for helping to make FocusNimble GPT even better!
 
 ## Submitting an Issue
 
